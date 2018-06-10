@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc94be78-0628-450f-a5fa-5e4ded22cd2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/Vagrantfile" afterDir="false" />
-    </list>
+    <list default="true" id="dc94be78-0628-450f-a5fa-5e4ded22cd2a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -58,6 +65,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/hello.py" />
+        <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py" />
       </list>
     </option>
   </component>
@@ -88,6 +96,36 @@
             <path>
               <item name="django-rest-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="django-rest-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-rest-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-rest-api" type="462c0819:PsiDirectoryNode" />
+              <item name=".vagrant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-rest-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-rest-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-rest-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-rest-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-rest-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-rest-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-rest-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-rest-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,6 +216,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
